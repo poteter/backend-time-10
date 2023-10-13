@@ -24,7 +24,7 @@ class DemoApplicationTests {
 	void retrieveItemsfromRepo() {
 		PartsRepository partsRepository = new PartsRepository();
 
-		assertThat(partsRepository.getParts().size()).isEqualTo(2);
+		assertThat(partsRepository.getParts().size()).isEqualTo(4);
 	}
 
 	@Test
