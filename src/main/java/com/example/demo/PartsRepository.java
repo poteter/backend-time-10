@@ -12,6 +12,9 @@ public class PartsRepository {
     public PartsRepository(){
         parts.add(new Part("wololo"));
         parts.add(new Part("woah"));
+        parts.add(new Part("harkinian"));
+
+
     }
 
     public ArrayList<Part> getParts() {
