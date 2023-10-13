@@ -13,6 +13,7 @@ public class PartsRepository {
         parts.add(new Part("wololo"));
         parts.add(new Part("woah"));
         parts.add(new Part("harkinian"));
+        parts.add(new Part("coffe"));
 
 
     }
